@@ -31,6 +31,10 @@
 	name = "CC BY-NC-ND 4.0"
 	url = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 
+/decl/license/cc_by_nc_sa_2_0
+	name = "CC BY-NC-SA 2.0"
+	url = "https://creativecommons.org/licenses/by-nc-sa/2.0/"
+
 /decl/license/grandfathered
 	name = "Grandfathered In"
 	url = "https://en.wikipedia.org/wiki/Grandfather_clause"
