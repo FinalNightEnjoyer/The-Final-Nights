@@ -1,17 +1,17 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aa" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ab" = (
 /obj/structure/cable/blue{
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "ac" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner,
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ad" = (
 /obj/machinery/light{
 	dir = 1;
@@ -21,35 +21,35 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "ae" = (
 /obj/effect/floor_decal/industrial/warning/dust,
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "af" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ag" = (
 /obj/structure/sign/warning/moving_parts,
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ah" = (
 /obj/structure/table,
 /obj/item/soap,
 /obj/effect/decal/cleanable/cobweb2,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "ai" = (
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aj" = (
 /obj/machinery/light{
 	icon_state = "tube_map";
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ak" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -59,7 +59,7 @@
 	icon_state = "2-4"
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "al" = (
 /obj/structure/closet/crate/trashcart,
 /obj/effect/decal/cleanable/cobweb,
@@ -71,13 +71,13 @@
 	icon_state = "0-2"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "am" = (
 /obj/effect/floor_decal/industrial/loading{
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "an" = (
 /obj/machinery/material_processing/unloader{
 	input_turf = 8;
@@ -88,7 +88,7 @@
 	icon_state = "warning"
 	},
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ao" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -99,17 +99,17 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ap" = (
 /obj/machinery/atmospherics/unary/material/extractor,
 /obj/effect/floor_decal/industrial/warning{
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aq" = (
 /turf/exterior/planet_edge,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ar" = (
 /obj/machinery/conveyor{
 	dir = 9;
@@ -124,16 +124,16 @@
 	icon_state = "warning"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "as" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "at" = (
 /obj/machinery/atmospherics/binary/pump{
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "au" = (
 /obj/machinery/atmospherics/portables_connector{
 	icon_state = "map_connector";
@@ -141,7 +141,7 @@
 	},
 /obj/effect/floor_decal/industrial/outline/grey,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "av" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -155,7 +155,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "aw" = (
 /obj/machinery/material_processing/unloader{
 	input_turf = 8;
@@ -166,7 +166,7 @@
 	icon_state = "stripe"
 	},
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ax" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -174,7 +174,7 @@
 	id_tag = "_k_mining_conveyor"
 	},
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "ay" = (
 /obj/machinery/material_processing/smeltery{
 	input_turf = 8;
@@ -185,7 +185,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "az" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -196,18 +196,18 @@
 	dir = 9
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aA" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "aB" = (
 /obj/machinery/material_processing/stacker,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aC" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aD" = (
 /obj/machinery/door/airlock/medical,
 /obj/structure/cable{
@@ -217,7 +217,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "aE" = (
 /obj/machinery/material_processing/unloader{
 	input_turf = 8;
@@ -228,7 +228,7 @@
 	icon_state = "warning"
 	},
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aF" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -238,12 +238,12 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aG" = (
 /obj/machinery/material_processing/compressor,
 /obj/effect/floor_decal/industrial/warning,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aH" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -252,14 +252,14 @@
 	},
 /obj/effect/floor_decal/industrial/warning,
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aI" = (
 /obj/machinery/light{
 	icon_state = "tube_map";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aJ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4;
@@ -277,7 +277,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "aK" = (
 /obj/machinery/conveyor{
 	dir = 1;
@@ -288,11 +288,11 @@
 	icon_state = "warning"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aL" = (
 /obj/item/drain,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aM" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4;
@@ -306,27 +306,27 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "aN" = (
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "aO" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aP" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/ore_box,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aQ" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/closet/crate,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aR" = (
 /obj/machinery/door/airlock/glass/medical,
 /obj/structure/cable{
@@ -336,7 +336,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "aS" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -344,14 +344,14 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aT" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aU" = (
 /obj/machinery/light/small{
 	dir = 1;
@@ -373,17 +373,17 @@
 /obj/item/storage/box/syringes,
 /obj/item/storage/box/armband/med,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "aV" = (
 /obj/machinery/light,
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/ore_box,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aW" = (
 /obj/machinery/light,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "aX" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -391,10 +391,10 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "aY" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "aZ" = (
 /obj/structure/cable/blue{
 	icon_state = "4-8"
@@ -404,18 +404,18 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "ba" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
 	dir = 8
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "bb" = (
 /obj/machinery/door/airlock/glass/civilian,
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "bc" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/structure/cable{
@@ -425,14 +425,14 @@
 	icon_state = "16-0"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "bd" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "be" = (
 /obj/machinery/power/smes/buildable/max_cap_in_out,
 /obj/machinery/power/apc/critical{
@@ -444,21 +444,21 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "bf" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "bg" = (
 /turf/exterior/open,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "bh" = (
 /obj/structure/cable/yellow{
 	icon_state = "2-4"
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "bi" = (
 /obj/machinery/light_switch/on{
 	dir = 1;
@@ -471,20 +471,20 @@
 /obj/item/roller,
 /obj/item/roller,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "bj" = (
 /obj/structure/cable/yellow{
 	icon_state = "1-2"
 	},
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "bk" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "bl" = (
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "bm" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 6
@@ -494,31 +494,31 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "bn" = (
 /obj/machinery/door/airlock/external/glass,
 /obj/structure/cable/blue{
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bo" = (
 /obj/structure/sign/warning/server_room,
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bp" = (
 /obj/machinery/network/acl,
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 10
 	},
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "bq" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "br" = (
 /obj/machinery/network/router{
-	initial_network_id = "kleibkhar"
+	initial_network_id = "earth"
 	},
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 6
@@ -528,11 +528,11 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "bs" = (
 /obj/structure/morgue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "bt" = (
 /obj/machinery/light{
 	dir = 1;
@@ -540,11 +540,11 @@
 	},
 /obj/machinery/cloning_pod,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "bu" = (
 /obj/machinery/computer/modular/preset/cloning,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "bv" = (
 /obj/structure/morgue,
 /obj/machinery/light/small{
@@ -552,21 +552,21 @@
 	icon_state = "bulb_map"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "bw" = (
 /obj/structure/rack,
 /obj/item/wheelchair_kit,
 /obj/item/wheelchair_kit,
 /obj/item/wheelchair_kit,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "bx" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "by" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
@@ -577,13 +577,13 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "bz" = (
 /obj/structure/cable/blue{
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bA" = (
 /obj/structure/railing/mapped,
 /obj/effect/floor_decal/corner/grey/border{
@@ -592,24 +592,24 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "bB" = (
 /obj/machinery/body_scan_display{
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "bC" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "bD" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "bE" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen/prechilled,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bF" = (
 /obj/machinery/light/small{
 	dir = 1;
@@ -617,47 +617,47 @@
 	},
 /obj/structure/table,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bG" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "bH" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/cyan,
 /obj/structure/table,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bI" = (
 /obj/structure/table,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bJ" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "bK" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 4
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "bL" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "bM" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 5
 	},
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "bN" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 9
 	},
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "bO" = (
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "bP" = (
 /obj/machinery/light{
 	dir = 8;
@@ -667,7 +667,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bQ" = (
 /obj/structure/crematorium{
 	dir = 1;
@@ -676,7 +676,7 @@
 	},
 /obj/effect/floor_decal/industrial/fire/full,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "bR" = (
 /obj/machinery/atmospherics/binary/pump{
 	dir = 1;
@@ -685,7 +685,7 @@
 	use_power = 1
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bS" = (
 /obj/machinery/power/apc/super{
 	dir = 8
@@ -694,12 +694,12 @@
 	icon_state = "0-4"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "bT" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/machinery/door/firedoor,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "bU" = (
 /obj/machinery/atmospherics/binary/pump{
 	target_pressure = 1000;
@@ -710,7 +710,7 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bV" = (
 /obj/machinery/light,
 /obj/machinery/resleever{
@@ -718,11 +718,11 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "bW" = (
 /obj/structure/fountain/mundane,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "bX" = (
 /obj/machinery/alarm{
 	dir = 4;
@@ -732,7 +732,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "bY" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -743,7 +743,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "bZ" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -755,18 +755,18 @@
 	icon_state = "injector0"
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ca" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cb" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cc" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/cyan{
 	dir = 4;
@@ -774,7 +774,7 @@
 	},
 /obj/machinery/meter,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "cd" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/green{
 	icon_state = "map";
@@ -782,23 +782,23 @@
 	},
 /obj/machinery/meter,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "ce" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/green{
 	icon_state = "11";
 	dir = 9
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cf" = (
 /obj/machinery/conveyor_switch/oneway{
 	id_tag = "_k_mining_conveyor"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "cg" = (
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "ch" = (
 /obj/machinery/power/apc/hyper{
 	icon_state = "apc0";
@@ -811,26 +811,26 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "ci" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "cj" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ck" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "cl" = (
 /obj/structure/table/reinforced,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cm" = (
 /obj/machinery/cryopod/despawner,
 /obj/effect/floor_decal/industrial/traffic{
@@ -838,7 +838,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cn" = (
 /obj/machinery/cryopod/despawner{
 	dir = 4;
@@ -849,7 +849,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "co" = (
 /obj/machinery/cryopod/despawner,
 /obj/effect/floor_decal/industrial/traffic{
@@ -857,14 +857,14 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cp" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/green{
 	icon_state = "11";
 	dir = 6
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cq" = (
 /obj/machinery/cryopod/despawner{
 	dir = 4;
@@ -875,7 +875,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cr" = (
 /obj/machinery/cryopod/despawner{
 	dir = 4;
@@ -890,28 +890,28 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cs" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ct" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cu" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	icon_state = "11";
 	dir = 1
 	},
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "cv" = (
 /obj/machinery/atmospherics/pipe/manifold4w/hidden/green,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cw" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/green{
 	icon_state = "11";
@@ -922,11 +922,11 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cx" = (
 /obj/structure/table/woodentable/maple,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cy" = (
 /obj/machinery/light{
 	dir = 1;
@@ -935,7 +935,7 @@
 /obj/structure/table,
 /obj/machinery/alarm,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "cz" = (
 /obj/structure/railing/mapped{
 	dir = 8;
@@ -943,7 +943,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "cA" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -958,7 +958,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "cB" = (
 /obj/machinery/button/crematorium{
 	dir = 4;
@@ -968,7 +968,7 @@
 /obj/effect/floor_decal/industrial/hatch/blue,
 /obj/effect/decal/cleanable/ash,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "cC" = (
 /obj/machinery/cryopod/despawner,
 /obj/effect/floor_decal/industrial/traffic{
@@ -980,11 +980,11 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cD" = (
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "cE" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -1000,7 +1000,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "cF" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -1009,7 +1009,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cG" = (
 /obj/machinery/cryopod/despawner{
 	dir = 4;
@@ -1024,23 +1024,23 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cH" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "cI" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cJ" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "cK" = (
 /obj/structure/sign/warning/high_voltage,
 /obj/structure/sign/warning/high_voltage{
@@ -1048,7 +1048,7 @@
 	dir = 1
 	},
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "cL" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -1059,16 +1059,16 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "cM" = (
 /obj/machinery/smartfridge/chemistry,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "cN" = (
 /obj/machinery/power/smes/buildable/max_cap_in_out,
 /obj/structure/cable/blue,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cO" = (
 /obj/machinery/power/terminal{
 	icon_state = "term";
@@ -1079,25 +1079,25 @@
 	},
 /obj/machinery/light,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cP" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cQ" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "cR" = (
 /obj/structure/table,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "cS" = (
 /obj/machinery/light{
 	dir = 1;
@@ -1106,7 +1106,7 @@
 /obj/structure/table/reinforced,
 /obj/item/pen,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cT" = (
 /obj/machinery/cryopod/despawner,
 /obj/effect/floor_decal/industrial/traffic{
@@ -1118,22 +1118,22 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "cU" = (
 /obj/structure/sign/bluecross_2,
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cV" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cW" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "cX" = (
 /obj/machinery/door/airlock/glass/medical{
 	icon_state = "closed";
@@ -1152,18 +1152,18 @@
 	},
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "cY" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/green{
 	icon_state = "11";
 	dir = 5
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "cZ" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "da" = (
 /obj/structure/cable{
 	icon_state = "0-2"
@@ -1173,7 +1173,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "db" = (
 /obj/machinery/atmospherics/portables_connector{
 	icon_state = "map_connector";
@@ -1181,7 +1181,7 @@
 	},
 /obj/machinery/portable_atmospherics/canister/nitrogen/prechilled,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dc" = (
 /obj/machinery/atmospherics/unary/freezer{
 	dir = 1;
@@ -1191,7 +1191,7 @@
 	},
 /obj/machinery/light,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dd" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/light_switch/on{
@@ -1202,7 +1202,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "de" = (
 /obj/machinery/atmospherics/unary/freezer{
 	dir = 1;
@@ -1211,11 +1211,11 @@
 	use_power = 1
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "df" = (
 /obj/structure/table,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "dg" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 2;
@@ -1225,7 +1225,7 @@
 /obj/machinery/cell_charger,
 /obj/structure/table,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "dh" = (
 /obj/machinery/door/airlock/glass/medical,
 /obj/structure/cable{
@@ -1235,30 +1235,30 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "di" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
 	dir = 4
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "dj" = (
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dk" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dl" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/green{
 	dir = 4;
 	icon_state = "11"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dm" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -1269,7 +1269,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dn" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 2;
@@ -1289,7 +1289,7 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "do" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -1298,7 +1298,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "dp" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -1314,10 +1314,10 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dq" = (
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "dr" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -1328,7 +1328,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "ds" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1343,7 +1343,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dt" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -1354,11 +1354,11 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "du" = (
 /obj/structure/sign/telecomms,
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dv" = (
 /obj/machinery/light_switch/on{
 	dir = 8;
@@ -1366,20 +1366,20 @@
 	pixel_x = 24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "dw" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
 /obj/machinery/photocopier,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dx" = (
 /obj/machinery/light_switch/on{
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dy" = (
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -1394,7 +1394,7 @@
 /obj/structure/table,
 /obj/machinery/fabricator/micro,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dz" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -1408,7 +1408,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "dA" = (
 /obj/machinery/light{
 	dir = 1;
@@ -1416,14 +1416,14 @@
 	},
 /obj/machinery/vending/cigarette,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dB" = (
 /obj/machinery/vending/cola,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dC" = (
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar/supply_shuttle_dock)
+/area/exoplanet/earth/supply_shuttle_dock)
 "dD" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1434,13 +1434,13 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "dE" = (
 /obj/machinery/atm{
 	pixel_y = 28
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dF" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
@@ -1452,39 +1452,39 @@
 	icon_state = "11-scrubbers"
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "dG" = (
 /obj/machinery/microwave,
 /obj/structure/table,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dH" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /turf/exterior/mud/dark,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "dI" = (
 /obj/machinery/firealarm{
 	icon_state = "casing";
 	dir = 1
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dJ" = (
 /obj/machinery/alarm{
 	dir = 1
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dK" = (
 /obj/machinery/light,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dL" = (
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dM" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "dN" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -1492,7 +1492,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "dO" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/machinery/atmospherics/pipe/zpipe/up/scrubbers{
@@ -1510,7 +1510,7 @@
 	icon_state = "16-0"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dP" = (
 /obj/machinery/firealarm{
 	icon_state = "casing";
@@ -1520,7 +1520,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dQ" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1532,11 +1532,11 @@
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply,
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dR" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "dS" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1554,7 +1554,7 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "dT" = (
 /obj/structure/bed/chair{
 	icon_state = "chair";
@@ -1565,7 +1565,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "dU" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -1573,7 +1573,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dV" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -1581,7 +1581,7 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "dW" = (
 /obj/machinery/light_switch/on{
 	dir = 1;
@@ -1595,7 +1595,7 @@
 	},
 /obj/machinery/light/small,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "dX" = (
 /obj/machinery/power/solar_control/autostart{
 	icon_state = "solar";
@@ -1610,7 +1610,7 @@
 	},
 /obj/machinery/light/small,
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/solar_array)
+/area/earth/outpost/solar_array)
 "dY" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1623,7 +1623,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled/steel_grid,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "dZ" = (
 /obj/machinery/door/airlock/double/glass/civilian{
 	icon_state = "closed"
@@ -1634,11 +1634,11 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "ea" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "eb" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1646,18 +1646,18 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ec" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ed" = (
 /obj/effect/shuttle_landmark/supply/station{
 	dir = 8
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar/supply_shuttle_dock)
+/area/exoplanet/earth/supply_shuttle_dock)
 "ee" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1666,7 +1666,7 @@
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply,
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ef" = (
 /obj/machinery/atmospherics/pipe/cap/hidden/scrubbers{
 	icon_state = "cap-scrubbers";
@@ -1685,7 +1685,7 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "eg" = (
 /obj/structure/cable/yellow{
 	icon_state = "2-8"
@@ -1695,14 +1695,14 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eh" = (
 /obj/structure/cable/yellow{
 	icon_state = "1-2"
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ei" = (
 /obj/structure/cable/yellow{
 	icon_state = "2-8"
@@ -1715,14 +1715,14 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ej" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 8
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ek" = (
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
@@ -1741,14 +1741,14 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "el" = (
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "em" = (
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
@@ -1767,7 +1767,7 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "en" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1775,7 +1775,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "eo" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1785,7 +1785,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/door/airlock/glass/civilian,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "ep" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1796,7 +1796,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "eq" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -1808,7 +1808,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "er" = (
 /obj/machinery/light{
 	dir = 1;
@@ -1816,28 +1816,28 @@
 	},
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "es" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 1
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "et" = (
 /obj/structure/table,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "eu" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
 	dir = 1
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ev" = (
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "ew" = (
 /obj/structure/cable{
 	icon_state = "1-4"
@@ -1855,7 +1855,7 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ex" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -1869,11 +1869,11 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "ey" = (
 /obj/machinery/vending/infini/science,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ez" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -1882,7 +1882,7 @@
 	},
 /obj/machinery/door/airlock/civilian,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eA" = (
 /obj/structure/cable/yellow{
 	icon_state = "1-8"
@@ -1895,10 +1895,10 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eB" = (
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eC" = (
 /obj/machinery/light{
 	dir = 8;
@@ -1914,7 +1914,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eD" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -1922,7 +1922,7 @@
 	icon_state = "1-4"
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eE" = (
 /obj/structure/cable/yellow{
 	icon_state = "1-8"
@@ -1932,29 +1932,29 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eF" = (
 /obj/machinery/alarm,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "eG" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
 	dir = 9
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eH" = (
 /obj/machinery/light_switch/on{
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "eI" = (
 /obj/machinery/recharger,
 /obj/structure/table,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "eJ" = (
 /obj/machinery/light{
 	dir = 1;
@@ -1966,11 +1966,11 @@
 /obj/structure/table,
 /obj/item/defibrillator/loaded,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "eK" = (
 /obj/machinery/vending/snack,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "eL" = (
 /obj/machinery/light{
 	dir = 1;
@@ -1978,35 +1978,35 @@
 	},
 /obj/machinery/fabricator/replicator,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "eM" = (
 /obj/structure/railing/mapped{
 	icon_state = "railing_preview";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/dark/monotile,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eN" = (
 /turf/simulated/floor/tiled/steel_ridged,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eO" = (
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "eP" = (
 /obj/structure/railing/mapped{
 	icon_state = "railing_preview";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark/monotile,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "eQ" = (
 /obj/machinery/vending/lavatory,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eR" = (
 /obj/machinery/fabricator,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "eS" = (
 /obj/structure/curtain/open/privacy,
 /obj/structure/hygiene/toilet{
@@ -2015,11 +2015,11 @@
 	},
 /obj/structure/window/reinforced,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eT" = (
 /obj/structure/hygiene/drain,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "eU" = (
 /obj/structure/bed/chair{
 	icon_state = "chair";
@@ -2035,7 +2035,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "eV" = (
 /obj/machinery/light{
 	dir = 1;
@@ -2043,10 +2043,10 @@
 	},
 /obj/structure/iv_drip,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "eW" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "eX" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -2055,10 +2055,10 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "eY" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "eZ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -2066,7 +2066,7 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fa" = (
 /obj/machinery/alarm,
 /obj/structure/cable{
@@ -2077,14 +2077,14 @@
 /obj/item/pen,
 /obj/item/clipboard,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fb" = (
 /obj/structure/sign/hydro{
 	icon_state = "hydro";
 	dir = 1
 	},
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fc" = (
 /obj/machinery/light{
 	dir = 4;
@@ -2092,7 +2092,7 @@
 	},
 /obj/structure/table,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fd" = (
 /obj/structure/table,
 /obj/item/radio/intercom{
@@ -2101,17 +2101,17 @@
 	pixel_x = 24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fe" = (
 /obj/machinery/network/mainframe{
-	initial_network_id = "kleibkhar"
+	initial_network_id = "earth"
 	},
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 10
 	},
 /obj/effect/decal/cleanable/cobweb2,
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "ff" = (
 /obj/machinery/light{
 	dir = 4;
@@ -2124,7 +2124,7 @@
 	},
 /obj/structure/window/reinforced,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fg" = (
 /obj/structure/curtain/open/shower,
 /obj/structure/hygiene/shower{
@@ -2136,42 +2136,42 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fh" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "fi" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fj" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
 	dir = 5
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fk" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fl" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fm" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -2180,50 +2180,50 @@
 	},
 /obj/machinery/door/airlock/glass/civilian,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fn" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fo" = (
 /obj/structure/hand_cart{
 	icon_state = "cart";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "fp" = (
 /obj/structure/noticeboard,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "fq" = (
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "fr" = (
 /obj/structure/sign/watercloset{
 	icon_state = "watercloset";
 	dir = 1
 	},
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fs" = (
 /obj/machinery/seed_extractor,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "ft" = (
 /turf/exterior/mud/dark,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "fu" = (
 /obj/structure/table,
 /obj/item/storage/box/donut,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fv" = (
 /obj/effect/geyser,
 /turf/exterior/mud/dark,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "fw" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	icon_state = "map-scrubbers";
@@ -2244,7 +2244,7 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fx" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -2258,7 +2258,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fy" = (
 /obj/structure/hygiene/drain,
 /obj/structure/cable{
@@ -2267,7 +2267,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "fz" = (
 /obj/structure/railing/mapped{
 	dir = 1;
@@ -2275,7 +2275,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "fA" = (
 /obj/structure/hygiene/sink/kitchen{
 	dir = 8;
@@ -2283,18 +2283,18 @@
 	pixel_x = 18
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fB" = (
 /obj/structure/closet,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fC" = (
 /obj/machinery/light_switch/on{
 	pixel_y = 24
 	},
 /obj/machinery/washing_machine,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fD" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/floodlight{
@@ -2303,11 +2303,11 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "fE" = (
 /obj/machinery/vending/infini/botany,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fF" = (
 /obj/structure/janitorialcart,
 /obj/item/mop,
@@ -2320,7 +2320,7 @@
 /obj/item/caution,
 /obj/item/caution,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "fG" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -2335,7 +2335,7 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "fH" = (
 /obj/machinery/light{
 	dir = 1;
@@ -2343,15 +2343,15 @@
 	},
 /obj/machinery/seed_storage,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fI" = (
 /obj/machinery/vending/hydroseeds/generic,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fJ" = (
 /obj/item/stool/bar,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fK" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -2369,7 +2369,7 @@
 	},
 /obj/effect/catwalk_plated,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "fL" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -2381,14 +2381,14 @@
 	},
 /obj/machinery/papershredder,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fM" = (
 /obj/machinery/vending/dinnerware{
 	icon_state = "dinnerware";
 	dir = 1
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fN" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -2399,7 +2399,7 @@
 	icon_state = "11-scrubbers"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -2413,7 +2413,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fP" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -2425,12 +2425,12 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "fQ" = (
 /obj/structure/closet/crate/trashcart,
 /obj/item/storage/mre/menu11/special,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "fR" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -2439,13 +2439,13 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "fS" = (
 /obj/structure/mopbucket,
 /obj/item/mop,
 /obj/machinery/light/small,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "fT" = (
 /obj/machinery/power/apc/super{
 	icon_state = "apc0";
@@ -2455,7 +2455,7 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "fU" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -2464,11 +2464,11 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "fV" = (
 /obj/structure/closet,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "fW" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/cable{
@@ -2479,17 +2479,17 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "fX" = (
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "fY" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "fZ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -2500,7 +2500,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "ga" = (
 /obj/item/inducer,
 /obj/item/holosign_creator,
@@ -2513,14 +2513,14 @@
 	dir = 4
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "gb" = (
 /obj/structure/cable{
 	icon_state = "0-4"
 	},
 /obj/machinery/power/apc/super,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/storage)
+/area/earth/outpost/infirmary/storage)
 "gc" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -2538,11 +2538,11 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "gd" = (
 /obj/item/inflatable_duck,
 /turf/exterior/water,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ge" = (
 /obj/machinery/light,
 /obj/structure/bed/chair{
@@ -2550,7 +2550,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "gf" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -2561,14 +2561,14 @@
 	dir = 5
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "gg" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "gh" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -2576,27 +2576,27 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "gi" = (
 /obj/structure/hygiene/drain,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "gj" = (
 /obj/machinery/alarm{
 	dir = 1
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "gk" = (
 /obj/structure/boulder,
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gl" = (
 /obj/structure/boulder{
 	icon_state = "boulder3"
 	},
 /turf/exterior/mud/dark,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gm" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -2604,47 +2604,47 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gn" = (
 /obj/structure/boulder{
 	icon_state = "boulder4"
 	},
 /turf/exterior/mud/dark,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "go" = (
 /obj/structure/boulder{
 	icon_state = "boulder2"
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gp" = (
 /obj/structure/boulder{
 	icon_state = "boulder5"
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gq" = (
 /obj/structure/boulder{
 	icon_state = "boulder4"
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gr" = (
 /obj/structure/boulder{
 	icon_state = "boulder6"
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gs" = (
 /obj/structure/sign/warning/docking_area{
 	pixel_y = 32
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gt" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "gu" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/machinery/door/firedoor,
@@ -2652,16 +2652,16 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "gv" = (
 /obj/machinery/light,
 /obj/machinery/portable_atmospherics/hydroponics,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "gw" = (
 /obj/machinery/portable_atmospherics/hydroponics,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "gx" = (
 /obj/machinery/light,
 /obj/machinery/light_switch/on{
@@ -2670,7 +2670,7 @@
 	pixel_y = -18
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "gy" = (
 /obj/machinery/power/apc{
 	icon_state = "apc0";
@@ -2686,7 +2686,7 @@
 /obj/structure/closet,
 /obj/item/plunger,
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "gz" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -2697,43 +2697,43 @@
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gA" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gB" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 10
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gC" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 6
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gD" = (
 /obj/effect/floor_decal/industrial/warning/dust,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gE" = (
 /obj/effect/floor_decal/corner/grey/bordercorner,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gF" = (
 /obj/effect/floor_decal/corner/grey/bordercorner{
 	icon_state = "bordercolorcorner";
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gG" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -2744,14 +2744,14 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gH" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 9
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gI" = (
 /obj/structure/ladder,
 /obj/effect/floor_decal/corner/grey/border{
@@ -2760,7 +2760,7 @@
 	},
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gJ" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -2771,7 +2771,7 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gK" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -2782,7 +2782,7 @@
 	dir = 10
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gL" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -2793,18 +2793,18 @@
 	dir = 9
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gM" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 1
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gN" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gO" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner,
 /obj/effect/floor_decal/industrial/warning/dust/corner{
@@ -2812,21 +2812,21 @@
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gP" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gQ" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gR" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
@@ -2837,52 +2837,52 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gS" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
 	dir = 1
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gT" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
 	dir = 1
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gU" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/floodlight,
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gV" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
 	dir = 5
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gW" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gX" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gY" = (
 /obj/effect/floor_decal/corner/grey/border,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "gZ" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
@@ -2893,7 +2893,7 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ha" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
@@ -2904,7 +2904,7 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hb" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -2915,7 +2915,7 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hc" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -2926,28 +2926,28 @@
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hd" = (
 /obj/effect/floor_decal/corner/grey/bordercorner{
 	icon_state = "bordercolorcorner";
 	dir = 1
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "he" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
 	dir = 10
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hf" = (
 /obj/effect/floor_decal/corner/grey/bordercorner{
 	icon_state = "bordercolorcorner";
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hg" = (
 /obj/structure/table,
 /obj/item/storage/box/glasses,
@@ -2957,7 +2957,7 @@
 /obj/item/kitchen/rollingpin,
 /obj/item/knife/kitchen,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hh" = (
 /obj/structure/closet,
 /obj/item/hatchet,
@@ -2972,14 +2972,14 @@
 	icon_state = "0-4"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "hi" = (
 /obj/machinery/light_switch/on{
 	pixel_y = 24
 	},
 /obj/machinery/vending/hydronutrients/generic,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "hj" = (
 /obj/machinery/light{
 	dir = 8;
@@ -2988,21 +2988,21 @@
 /obj/structure/closet,
 /obj/item/storage/box/taperolls,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hk" = (
 /obj/structure/table,
 /obj/item/trash/beans,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hl" = (
 /obj/machinery/light,
 /obj/structure/closet,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hm" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "hn" = (
 /obj/structure/hygiene/sink{
 	dir = 8;
@@ -3014,11 +3014,11 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "ho" = (
 /obj/machinery/vending/infini/industrial,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "hp" = (
 /obj/machinery/power/apc/super{
 	dir = 8
@@ -3027,7 +3027,7 @@
 	icon_state = "0-4"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "hq" = (
 /obj/machinery/light,
 /obj/structure/bed/chair{
@@ -3035,19 +3035,19 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hr" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "hs" = (
 /obj/machinery/atmospherics/unary/vent_pump/on,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "ht" = (
 /obj/structure/table,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "hu" = (
 /obj/structure/hygiene/sink{
 	dir = 4;
@@ -3055,12 +3055,12 @@
 	pixel_x = 12
 	},
 /turf/simulated/floor/tiled/old_tile,
-/area/kleibkhar/outpost/washroom)
+/area/earth/outpost/washroom)
 "hv" = (
 /obj/machinery/optable,
 /obj/effect/decal/cleanable/blood,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hw" = (
 /obj/machinery/computer/operating,
 /obj/item/radio/intercom/department/medbay{
@@ -3069,7 +3069,7 @@
 	pixel_x = 24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hx" = (
 /obj/structure/cable/yellow{
 	icon_state = "0-8"
@@ -3077,7 +3077,7 @@
 /obj/machinery/power/solar,
 /obj/effect/floor_decal/solarpanel,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hy" = (
 /obj/structure/hygiene/sink{
 	dir = 8;
@@ -3086,7 +3086,7 @@
 	},
 /obj/effect/decal/cleanable/blood,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hz" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -3097,7 +3097,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hA" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -3111,7 +3111,7 @@
 	icon_state = "vomit_2"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hB" = (
 /obj/machinery/light,
 /obj/machinery/bodyscanner{
@@ -3119,7 +3119,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hC" = (
 /obj/item/radio/intercom/department/medbay{
 	dir = 4;
@@ -3127,7 +3127,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "hD" = (
 /obj/machinery/body_scanconsole{
 	icon_state = "body_scannerconsole";
@@ -3139,7 +3139,7 @@
 	pixel_y = -18
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hE" = (
 /obj/machinery/power/apc,
 /obj/structure/cable{
@@ -3150,7 +3150,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hF" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -3159,13 +3159,13 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hG" = (
 /obj/item/storage/firstaid/surgery/ghetto,
 /obj/item/storage/firstaid/adv,
 /obj/structure/table,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/surgery)
+/area/earth/outpost/infirmary/surgery)
 "hH" = (
 /obj/machinery/door/airlock/double/glass/mining{
 	dir = 8;
@@ -3173,7 +3173,7 @@
 	},
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "hI" = (
 /obj/machinery/light{
 	dir = 8;
@@ -3191,7 +3191,7 @@
 	icon_state = "0-2"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hJ" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	icon_state = "11";
@@ -3202,14 +3202,14 @@
 	},
 /obj/structure/cable/blue,
 /turf/simulated/floor/bluegrid,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "hK" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on,
 /obj/item/radio/intercom/department/medbay{
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hL" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -3218,7 +3218,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hM" = (
 /obj/machinery/sleeper,
 /obj/machinery/light{
@@ -3226,10 +3226,10 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hN" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -3245,7 +3245,7 @@
 /obj/structure/table,
 /obj/item/pack,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hP" = (
 /obj/structure/cable/yellow{
 	icon_state = "0-4"
@@ -3253,7 +3253,7 @@
 /obj/machinery/power/solar,
 /obj/effect/floor_decal/solarpanel,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hQ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -3268,7 +3268,7 @@
 	},
 /obj/structure/table,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hR" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -3279,7 +3279,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hS" = (
 /obj/structure/bed/chair/office/dark{
 	icon_state = "officechair";
@@ -3289,7 +3289,7 @@
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "hT" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -3303,7 +3303,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hU" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -3321,11 +3321,11 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "hV" = (
 /obj/structure/bed/roller,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "hW" = (
 /obj/machinery/light{
 	dir = 8;
@@ -3347,62 +3347,62 @@
 	icon_state = "0-4"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "hX" = (
 /obj/effect/catwalk_plated,
 /obj/structure/cable/yellow{
 	icon_state = "0-4"
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hY" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 1
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "hZ" = (
 /obj/machinery/bodyscanner{
 	icon_state = "body_scanner_0";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "ia" = (
 /obj/machinery/body_scanconsole{
 	icon_state = "body_scannerconsole";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "ib" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 1
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "ic" = (
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "id" = (
 /obj/item/radio/intercom{
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ie" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "if" = (
 /obj/machinery/atmospherics/unary/vent_pump/on,
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ig" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging/junction{
@@ -3410,10 +3410,10 @@
 	dir = 1
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "ih" = (
-/turf/exterior/kleibkhar_grass,
-/area/exoplanet/kleibkhar)
+/turf/exterior/earth_grass,
+/area/exoplanet/earth)
 "ii" = (
 /obj/machinery/light,
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
@@ -3421,7 +3421,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ij" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -3433,24 +3433,24 @@
 	},
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "ik" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/portable_atmospherics/canister/empty,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "il" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/decal/cleanable/vomit,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "im" = (
 /obj/effect/decal/cleanable/vomit{
 	icon_state = "vomit_2"
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/sleeproom)
+/area/earth/outpost/sleeproom)
 "in" = (
 /obj/machinery/light{
 	icon_state = "tube_map";
@@ -3464,7 +3464,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "io" = (
 /obj/machinery/light{
 	icon_state = "tube_map";
@@ -3472,11 +3472,11 @@
 	},
 /obj/structure/closet,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary/exam)
+/area/earth/outpost/infirmary/exam)
 "ip" = (
 /obj/effect/wallframe_spawn/reinforced,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/it)
+/area/earth/outpost/it)
 "iq" = (
 /obj/machinery/computer/modular/preset/cardslot/command,
 /obj/machinery/atmospherics/pipe/simple/hidden/yellow,
@@ -3486,7 +3486,7 @@
 	pixel_x = 24
 	},
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "ir" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	icon_state = "map-scrubbers";
@@ -3502,7 +3502,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/mess_hall)
+/area/earth/outpost/mess_hall)
 "is" = (
 /obj/item/radio/intercom{
 	dir = 4;
@@ -3510,7 +3510,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/hydroponics)
+/area/earth/outpost/hydroponics)
 "it" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -3518,7 +3518,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/monotile,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "iu" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -3530,23 +3530,23 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/hallway)
+/area/earth/outpost/hallway)
 "iv" = (
 /obj/machinery/alarm{
 	dir = 4;
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "iw" = (
 /obj/structure/table,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/cloning)
+/area/earth/outpost/cloning)
 "ix" = (
 /obj/structure/railing/mapped,
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iy" = (
 /obj/machinery/conveyor{
 	dir = 8;
@@ -3554,14 +3554,14 @@
 	id_tag = "_cargo_shuttle_conveyors"
 	},
 /turf/simulated/floor/plating,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iz" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 8
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iA" = (
 /obj/structure/hygiene/sink{
 	dir = 4;
@@ -3577,36 +3577,36 @@
 	},
 /obj/effect/decal/cleanable/cobweb2,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/custodial)
+/area/earth/outpost/custodial)
 "iB" = (
 /obj/effect/decal/writing,
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "iC" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 9
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iD" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 4
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iE" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 5
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iF" = (
 /obj/effect/floor_decal/industrial/warning/dust,
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iG" = (
 /obj/structure/sign/warning/docking_area{
 	dir = 8;
@@ -3614,30 +3614,30 @@
 	pixel_x = 32
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iH" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iI" = (
 /turf/simulated/wall/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "iJ" = (
 /obj/machinery/door/airlock/glass/medical,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/effect/floor_decal/industrial/hatch/blue,
 /turf/simulated/floor/tiled/white,
-/area/kleibkhar/outpost/infirmary)
+/area/earth/outpost/infirmary)
 "iK" = (
 /obj/machinery/door/airlock/glass/civilian{
 	icon_state = "closed";
 	dir = 2
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iL" = (
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iM" = (
 /obj/machinery/button/blast_door{
 	dir = 4;
@@ -3646,7 +3646,7 @@
 	},
 /obj/effect/floor_decal/industrial/warning/dust,
 /turf/exterior/barren,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iN" = (
 /obj/machinery/button/blast_door{
 	id_tag = "_k_cargo_outer_shutter";
@@ -3654,18 +3654,18 @@
 	},
 /obj/machinery/atmospherics/unary/vent_scrubber/on,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iO" = (
 /obj/effect/wallframe_spawn/reinforced/bare,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iP" = (
 /obj/machinery/door/blast/shutters{
 	id_tag = "_k_cargo_outer_shutter"
 	},
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iQ" = (
 /obj/machinery/button/blast_door{
 	dir = 1;
@@ -3678,7 +3678,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iR" = (
 /obj/effect/wallframe_spawn/reinforced/bare,
 /obj/machinery/atmospherics/pipe/zpipe/up/supply{
@@ -3696,7 +3696,7 @@
 	icon_state = "16-0"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iS" = (
 /obj/machinery/door/airlock/glass/civilian{
 	icon_state = "closed";
@@ -3704,26 +3704,26 @@
 	},
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "iT" = (
 /turf/simulated/wall/concrete,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iU" = (
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iV" = (
 /obj/machinery/button/blast_door{
 	id_tag = "_k_cargo_inner_shutter";
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iW" = (
 /obj/effect/floor_decal/industrial/loading{
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iX" = (
 /obj/machinery/door/blast/shutters{
 	dir = 8;
@@ -3736,7 +3736,7 @@
 	id_tag = "_cargo_shuttle_conveyors"
 	},
 /turf/simulated/floor/tiled/steel_ridged,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iY" = (
 /obj/machinery/button/blast_door{
 	dir = 4;
@@ -3748,11 +3748,11 @@
 	dir = 1
 	},
 /turf/exterior/barren,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "iZ" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "ja" = (
 /obj/machinery/conveyor{
 	dir = 8;
@@ -3765,7 +3765,7 @@
 	id_tag = "_k_cargo_dock_shutter"
 	},
 /turf/simulated/floor/tiled/steel_ridged,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jb" = (
 /obj/machinery/alarm{
 	dir = 4;
@@ -3775,7 +3775,7 @@
 	pixel_y = 28
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jc" = (
 /obj/machinery/alarm{
 	dir = 4;
@@ -3785,37 +3785,37 @@
 	pixel_y = 28
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jd" = (
 /obj/effect/wallframe_spawn/reinforced/bare,
 /turf/simulated/floor,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "je" = (
 /obj/machinery/door/blast/shutters{
 	id_tag = "_k_cargo_inner_shutter"
 	},
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jf" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jg" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jh" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ji" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 10
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jj" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4;
@@ -3832,7 +3832,7 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jk" = (
 /obj/machinery/computer/modular/preset/supply_public{
 	icon_state = "computer";
@@ -3843,7 +3843,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jl" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/light{
@@ -3851,21 +3851,21 @@
 	icon_state = "tube_map"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jm" = (
 /obj/machinery/light{
 	icon_state = "tube_map";
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jn" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	icon_state = "warning_dust";
 	dir = 6
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jo" = (
 /obj/structure/sign/warning/docking_area{
 	dir = 1;
@@ -3873,7 +3873,7 @@
 	pixel_y = -32
 	},
 /turf/exterior/barren,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jp" = (
 /obj/machinery/door/airlock/glass/civilian{
 	icon_state = "closed";
@@ -3881,12 +3881,12 @@
 	},
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jq" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing/mapped,
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jr" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/floodlight{
@@ -3899,24 +3899,24 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "js" = (
 /obj/structure/lattice,
 /turf/exterior/open,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jt" = (
 /obj/structure/railing/mapped{
 	icon_state = "railing_preview";
 	dir = 8
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ju" = (
 /obj/machinery/light_switch{
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jv" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/light_switch{
@@ -3925,7 +3925,7 @@
 	pixel_y = -24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jw" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4;
@@ -3939,7 +3939,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jx" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply{
 	icon_state = "map-supply";
@@ -3950,7 +3950,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jy" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	icon_state = "11-supply";
@@ -3964,7 +3964,7 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jz" = (
 /obj/machinery/light{
 	dir = 8;
@@ -3976,7 +3976,7 @@
 	},
 /obj/structure/cable,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jA" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -3984,7 +3984,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo)
+/area/earth/outpost/cargo)
 "jB" = (
 /obj/machinery/conveyor_switch{
 	id_tag = "_cargo_shuttle_conveyors"
@@ -3995,7 +3995,7 @@
 	pixel_x = 24
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jC" = (
 /obj/effect/wallframe_spawn/reinforced/bare,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -4004,7 +4004,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jD" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	icon_state = "11-scrubbers";
@@ -4018,21 +4018,21 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jE" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	icon_state = "map_vent_out";
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jF" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	icon_state = "map_scrubber_on";
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jG" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -4040,12 +4040,12 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jH" = (
 /obj/machinery/power/apc/super,
 /obj/structure/cable,
 /turf/simulated/floor/tiled,
-/area/kleibkhar/outpost/cargo/warehouse)
+/area/earth/outpost/cargo/warehouse)
 "jI" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/floodlight,
@@ -4055,7 +4055,7 @@
 	dir = 4
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing/mapped{
@@ -4063,7 +4063,7 @@
 	dir = 1
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jK" = (
 /obj/effect/wallframe_spawn/reinforced,
 /obj/machinery/atmospherics/pipe/zpipe/up/scrubbers{
@@ -4084,7 +4084,7 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor,
-/area/kleibkhar/outpost/mining)
+/area/earth/outpost/mining)
 "jL" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -4094,14 +4094,14 @@
 	icon_state = "1-2"
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jM" = (
 /obj/structure/lattice,
 /obj/structure/cable/yellow{
 	icon_state = "32-4"
 	},
 /turf/exterior/open,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jN" = (
 /obj/structure/railing/mapped{
 	icon_state = "railing_preview";
@@ -4111,13 +4111,13 @@
 	icon_state = "4-8"
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jO" = (
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "jP" = (
 /obj/effect/floor_decal/corner/grey/border{
 	icon_state = "bordercolor";
@@ -4127,17 +4127,17 @@
 	icon_state = "1-8"
 	},
 /turf/exterior/concrete,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "ry" = (
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 "wt" = (
 /obj/machinery/power/tracker,
 /obj/structure/cable/yellow{
 	icon_state = "0-8"
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "JN" = (
 /obj/machinery/power/solar,
 /obj/effect/floor_decal/solarpanel,
@@ -4145,14 +4145,14 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor/plating,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "Rh" = (
 /turf/exterior/water,
-/area/exoplanet/kleibkhar)
+/area/exoplanet/earth)
 "XM" = (
 /obj/machinery/computer/modular/preset/cardslot/command,
 /turf/simulated/floor/tiled/techfloor,
-/area/kleibkhar/outpost/computer)
+/area/earth/outpost/computer)
 
 (1,1,1) = {"
 aq

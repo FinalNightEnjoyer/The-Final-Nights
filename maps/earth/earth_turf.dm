@@ -47,7 +47,7 @@ var/global/list/grass_seed_drop_types_uncommon = list(
 	"algae",
 )
 
-var/global/list/kleibkhar_possible_mushroom_seeds = list(
+var/global/list/earth_possible_mushroom_seeds = list(
 	"mold",
 	"reishi",
 	"amanita",
@@ -59,7 +59,7 @@ var/global/list/kleibkhar_possible_mushroom_seeds = list(
 	"plumphelmet",
 )
 
-var/global/list/kleibkhar_possible_tree_seeds = list(
+var/global/list/earth_possible_tree_seeds = list(
 	"banana",
 	"apple",
 	"lime",
@@ -123,11 +123,11 @@ var/global/list/kleibkhar_possible_tree_seeds = list(
 		var/picked_seed
 		switch(picked)
 			if("seed_tree")
-				picked_seed = pick(global.kleibkhar_possible_tree_seeds)
+				picked_seed = pick(global.earth_possible_tree_seeds)
 			if("seed_plant")
 				picked_seed = prob(80)? pick(global.grass_seed_drop_types_common) : pick(global.grass_seed_drop_types_uncommon)
 			if("seed_mushroom")
-				picked_seed = pick(global.kleibkhar_possible_mushroom_seeds)
+				picked_seed = pick(global.earth_possible_mushroom_seeds)
 		if(picked_seed)
 			prop = new /obj/machinery/portable_atmospherics/hydroponics/soil/invisible(src, picked_seed, prob(50))
 
