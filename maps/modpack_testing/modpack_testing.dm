@@ -26,6 +26,8 @@
 	#include "../../mods/species/bayliens/_bayliens.dme"
 	#include "../../mods/species/vox/_vox.dme"
 
+	#include "../../mods/persistence/_persistence.dme"
+
 	#define USING_MAP_DATUM /datum/map/modpack_testing
 
 #elif !defined(MAP_OVERRIDE)

@@ -3508,6 +3508,8 @@
 #include "maps\antag_spawn\ninja\ninja.dm"
 #include "maps\antag_spawn\wizard\wizard.dm"
 #include "maps\away_sites_testing\away_sites_testing_define.dm"
+#include "maps\earth\earth.dm"
+#include "maps\earth\earth_defines.dm"
 #include "maps\example\example_define.dm"
 #include "maps\exodus\exodus_define.dm"
 #include "maps\ministation\ministation_define.dm"

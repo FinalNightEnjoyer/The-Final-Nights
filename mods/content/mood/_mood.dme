@@ -1,0 +1,7 @@
+#ifndef MODPACK_MOOD
+#define MODPACK_MOOD
+// BEGIN
+#include "_defines.dm"
+#include "_mood.dm"
+// END
+#endif
