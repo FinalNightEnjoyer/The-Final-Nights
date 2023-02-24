@@ -80,7 +80,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        map_path: [earth]
+        map_path: [example, modpack_testing, away_sites_testing, earth]
     steps:
       - uses: actions/checkout@v3
       - name: Setup Cache
