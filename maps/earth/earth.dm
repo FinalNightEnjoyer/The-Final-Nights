@@ -18,7 +18,6 @@
 	#include "earth_unit_testing.dm"
 	#include "earth_turf.dm"
 	#include "earth_events.dm"
-	#include "earth_species.dm"
 	#include "earth_supply.dm"
 
 	#define USING_MAP_DATUM /datum/map/earth
